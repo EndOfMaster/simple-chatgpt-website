@@ -1,0 +1,22 @@
+{
+  "name": "simple-chatgpt-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EndOfMaster/simple-chatgpt-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EndOfMaster/simple-chatgpt-website/issues"
+  },
+  "homepage": "https://github.com/EndOfMaster/simple-chatgpt-website#readme",
+  "dependencies": {
+    "chatgpt": "^4.4.1"
+  }
+}
